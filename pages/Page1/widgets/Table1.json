@@ -35,7 +35,7 @@
         {"key": "primaryColumns.EditActions1.isDiscardDisabled"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 0,
+    "leftColumn": 25,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "showInlineEditingOptionDropdown": true,
@@ -547,7 +547,7 @@
     "key": "1vsz0ycaoh",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 26,
+    "rightColumn": 51,
     "textSize": "0.875rem",
     "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.d0492f06681daa69baf92b07d3829dfc.svg",
     "widgetId": "41nd1x7tap",
